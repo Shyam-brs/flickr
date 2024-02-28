@@ -7,6 +7,6 @@
     https://www.flickr.com/services/api/
 
 ###### Purpose :
-    API is used for searching images.We can download the images from the app.
+    API is used for searching images. We can download the images from the app.
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/javascript/flickr).
+#### Check out the live app [here](https://shyam-brs.github.io/flickr/).
